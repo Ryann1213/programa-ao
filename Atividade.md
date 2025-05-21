@@ -1,4 +1,4 @@
-Claro! Aqui vai essa atividade com aquela pegada mais descontraída, explicando tudo de forma simples e direta, do jeitinho que você curte — sem enrolação, mas com tudo o que o professor quer ver.
+
 
 ---
 
@@ -75,4 +75,3 @@ Imagina que você tá criando um site e quer adicionar um sistema de comentário
 
 ---
 
-Se quiser, já posso transformar isso num `.docx` ou `.pdf` pra você mandar. E se precisar de ajuda pra achar um repositório no GitHub pra fazer a parte dos commits, é só falar! 😎💻
